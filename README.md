@@ -29,7 +29,7 @@ Web scraping allows automatic collection of data from websites instead of manual
    git clone https://github.com/anujatappeta/Web_scraping.git
 ```
 **2.Navigate to the project folder:***
-    ```bash
+    
    cd Web_scraping
 
 **3.Install required Python packages:**
@@ -39,5 +39,6 @@ Web scraping allows automatic collection of data from websites instead of manual
 **4.Open app.py in your IDE (VS Code, PyCharm, etc.).**
       
 **Run the script:**
-
+```bash
 python app.py
+```
