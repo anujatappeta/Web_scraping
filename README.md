@@ -28,17 +28,15 @@ Web scraping allows automatic collection of data from websites instead of manual
    ```bash
    git clone https://github.com/anujatappeta/Web_scraping.git
 ```
-**2.Navigate to the project folder:***
+**2.Navigate to the project folder:**
     
    cd Web_scraping
 
 **3.Install required Python packages:**
-      ```bash
-   pip install requests beautifulsoup4 pandas
+      
+   pip install requests beautifulsoup4
 
 **4.Open app.py in your IDE (VS Code, PyCharm, etc.).**
       
 **Run the script:**
-```bash
 python app.py
-```
